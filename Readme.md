@@ -14,3 +14,9 @@ Python library implementing artificial intelligence and machine learning algorih
     - Intro to ML
     - Classification and Decision Trees
     - Linear Classification and Perceptron
+    - Support Vector Machines/svm
+    - Regression/linear regression
+    - Statistical Learning Theory
+    - Unsupervised Learning and Clustering
+    - Dimensionality Reduction, PCA
+    - Graphical Models
