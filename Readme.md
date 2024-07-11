@@ -5,7 +5,7 @@ Python library implementing artificial intelligence and machine learning algorih
 ## Topics and Algorithms
 
 - **Artificial Intelligence**
-    - misc
+    - generic algorithms
     - computer vision
     - natural language processing
 
